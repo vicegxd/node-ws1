@@ -3,7 +3,7 @@ export default {
     let url = new URL(request.url);
     if (url.pathname.startsWith('/')) {
       var arrStr = [
-        'viceman.alwaysdata.net', // 此处单引号里填写你的节点伪装域名
+        'www.baidu.com', // 此处单引号里填写你的节点伪装域名
       ];
       console.log('域名是' + arrStr);
       url.protocol = 'https:';
