@@ -1,10 +1,8 @@
 {
-  "name": "node-ws",
+  "name": "nforflyws",
   "version": "1.0.0",
-  "description": "Node.js Server",
+  "description": "Nodejs-firfly-server",
   "main": "index.js",
-  "author": "eooce",
-  "license": "GPL-3.0",
   "private": false,
   "scripts": {
     "start": "node index.js"
